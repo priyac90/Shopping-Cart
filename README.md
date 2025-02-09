@@ -1,3 +1,21 @@
+**I have used Material UI and React styled components for the Design**
+**Typescript as the Language and ReactQuery to fetch the data from API, I couldnt use the "mock.shop" API, as it gave me continuous CORS Error.Instead I used a FakeAPI and fetched the data**
+
+^^ How to setup the project:
+* Go to the folder in the VS Code, where we will start to create the Project.
+* In the Terminal, type as --> npx create-react-app shopping-cart --template typescript
+* --> npm i @material-ui/core @material-ui/icons
+* --> npm install @mui/material @emotion/react @emotion/styled
+* --> npm i react-query
+* --> npm i styled-components @types/styled-components
+* --> npm start
+  
+^^ Can still enhance the UI Part, jus finished the Funtionality.
+^^ Can check for the mock.shop API and sort out the cors error, need some tym to trigger it out.
+^^ Would like to finish the Header part and implement the navigation - only this part is pending. This can be done using ReactRouter.
+
+**Interesting task to work on cart items**
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
